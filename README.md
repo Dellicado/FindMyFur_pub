@@ -11,6 +11,8 @@ FindMyFur aims to empower pet owners with a digital platform where they can regi
 This project is not only a tool for pet recovery — it’s also a personal journey to sharpen my full-stack development skills and build a meaningful, real-world solution.
 
 
+
+
 🛠️ Tech Stack
 Built using a classic LAMP setup and modern frontend tools:
 
@@ -27,6 +29,9 @@ Built using a classic LAMP setup and modern frontend tools:
   JavaScript – Interactivity and client-side logic
 
 
+
+
+
 📦 Current Module: Login System
 The login module includes:
 
@@ -41,8 +46,15 @@ The login module includes:
   ✅ Status: Completed and tested locally via XAMPP
 
 
+
+
+
 📸 Web Page Snippets
 Below are visual snippets and code highlights from the login module.
+
+
+
+
 
 
 
@@ -63,8 +75,12 @@ Stay tuned for future updates as I build out:
   Each module will be documented and pushed here with clear changelogs and visuals.
 
 
+
+
 💬 Feedback & Collaboration
 This is a solo passion project, but I welcome feedback, suggestions, and collaboration ideas. Feel free to open issues or reach out if you’re interested in contributing or testing.
+
+
 
 
 ❤️ About the Developer
